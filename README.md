@@ -1,28 +1,36 @@
-# Hi 👋, I'm Adarsh Singh
+# Hi , I'm Adarsh Singh
 
-🎓 Final Year CSE Student  
-💻 Aspiring Data Scientist & Machine Learning Enthusiast  
-🚀 Passionate about Python, AI, ML, and Web Applications
+🎓 Final Year CSE Student passionate about Data Science and Machine Learning  
+💻 Building real-world AI & ML projects using Python, SQL, and modern technologies  
+🚀 Focused on problem-solving, data-driven solutions, and continuous learning
 
 ---
 
-## 🛠️ Skills
+##  Skills
 
-- Python
-- Machine Learning
 - SQL
+- C
+- Python
 - Pandas
 - NumPy
+- Matplotlib
+- Seaborn
+- Machine Learning
 - Scikit-learn
+- Deep Learning
+- TensorFlow
 - Streamlit
-- Data Analysis
+- EDA
+- HTML
+- CSS
+- Bootstrap
 
 ---
 
 ## 📌 Projects
 
 ### 🔹 Customer Churn Prediction
-Machine Learning project that predicts customer churn using Logistic Regression and Streamlit.
+Machine Learning project that predicts customer churn using Logistic Regression, Random Forest and Streamlit.
 
 ### 🔹 Streamlit ML App
 Interactive Machine Learning web application using Streamlit.
@@ -32,18 +40,17 @@ Interactive Machine Learning web application using Streamlit.
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/adarsh020106
-- LinkedIn: Add Your LinkedIn Link Here
+- LinkedIn: www.linkedin.com/in/adarsh-singh-ds
 
 ---
 
 ## 🔥 Currently Learning
-
-- Deep Learning
-- NLP
+- Data Structure and Algorithms with C++
 - Django
 - Advanced Machine Learning
 
 ---
+🔭 I’m currently working as Trainee at Softpro India Pvt. Ltd Lucknow.
 
 ⭐ Always learning and building real-world projects.
 
@@ -52,7 +59,7 @@ Interactive Machine Learning web application using Streamlit.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ..
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
