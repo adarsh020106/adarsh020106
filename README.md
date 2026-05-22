@@ -6,24 +6,23 @@
 
 ---
 
-##  Skills
+# 🛠️ Tech Stack
 
-- SQL
-- C
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Machine Learning
-- Scikit-learn
-- Deep Learning
-- TensorFlow
-- Streamlit
-- EDA
-- HTML
-- CSS
-- Bootstrap
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-blue?style=for-the-badge)
+
+---
 
 ---
 
