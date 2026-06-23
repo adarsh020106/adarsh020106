@@ -16,14 +16,18 @@
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
+<img src="https://img.shields.io/badge/Matplotlib-%2311557c.svg?style=for-the-badge&logo=plotly&logoColor=white"/>
+
+
+<img src="https://img.shields.io/badge/Seaborn-%234C72B0.svg?style=for-the-badge&logo=python&logoColor=white"/>
+
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-blue?style=for-the-badge)
 
-<img src="https://img.shields.io/badge/Matplotlib-%2311557c.svg?style=for-the-badge&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-%234C72B0.svg?style=for-the-badge&logo=python&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Deep%20Learning-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 
 ---
