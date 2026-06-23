@@ -34,6 +34,10 @@ Machine Learning project that predicts customer churn using Logistic Regression,
 ### 🔹 Streamlit ML App
 Interactive Machine Learning web application using Streamlit.
 
+### 🔹 Face Mask Detection System
+Detect face using real life wev cam and identify wear face mask or not.
+
+
 ---
 
 ## 📫 Connect With Me
