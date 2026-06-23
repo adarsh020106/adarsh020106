@@ -1,6 +1,6 @@
 # Hi , I'm Adarsh Singh
 
-🎓 Final Year CSE Student passionate about Data Science and Machine Learning  
+🎓 B.Tech Graduate with a strong interest in Data Science, Machine Learning, and Python development.  
 💻 Building real-world AI & ML projects using Python, SQL, and modern technologies  
 🚀 Focused on problem-solving, data-driven solutions, and continuous learning
 
