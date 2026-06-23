@@ -22,6 +22,10 @@
 
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-blue?style=for-the-badge)
 
+<img src="https://img.shields.io/badge/Matplotlib-%2311557c.svg?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-%234C72B0.svg?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
 ---
 
 ---
