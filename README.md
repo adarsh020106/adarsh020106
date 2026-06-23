@@ -53,7 +53,7 @@ Detect face using real life wev cam and identify wear face mask or not.
 - Advanced Machine Learning
 
 ---
-🔭 I’m currently working as Trainee at Softpro India Pvt. Ltd Lucknow.
+🔭 I’m currently working as Intern at Softpro India Pvt. Ltd Lucknow.
 
 ⭐ Always learning and building real-world projects.
 
