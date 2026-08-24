@@ -34,14 +34,26 @@
 
 ## 📌 Projects
 
+### 🔹 Face Mask Detection System
+FaceGuard AI is a full-stack AI-powered Face Mask Detection web application built with a Django backend and an interactive frontend supporting image uploads and webcam capture. It uses OpenCV to detect the largest frontal face, generates full-face, lower-face, and nose crops, and processes them through a trained Keras model. The prediction scores are combined to classify the result as **Mask** or **No Mask**, while selected detection results are securely stored in SQLite for each authenticated user.
+
+### 🔹 House Price Prediction System
+House Price Prediction System is a full-stack Machine Learning web application designed to estimate property prices based on various housing features such as location, area, number of bedrooms, bathrooms, and other property attributes. The system uses a trained Machine Learning model for accurate price prediction, with Django handling the backend, model integration, data processing, and user requests. The frontend is built using HTML and CSS to provide a clean, responsive, and user-friendly interface where users can enter property details and instantly receive the predicted house price.
+
+### 🔹 File Tracking System
+File Tracking System is a full-stack web application developed using Django, HTML, CSS, Bootstrap, and SQLite. It is designed to digitally manage, track, and monitor files as they move between different departments, users, or locations within an organization. The system allows authorized users to create file records, update file status, assign or forward files, maintain movement history, search and filter records, and track the current location of each file. Django handles the backend logic, authentication, and database operations, while SQLite stores file and user data. The responsive Bootstrap-based frontend provides a simple and user-friendly dashboard for efficient file management and tracking.
+Click here---https://adarshsingh11.pythonanywhere.com/
+
+### 🔹 AI based Resume Screening System
+AI-Based Resume Screening System is a Machine Learning powered application developed using Streamlit and Python to automate the process of analyzing and shortlisting resumes. The system extracts relevant information from uploaded resumes, compares candidate skills and qualifications with job requirements, and generates matching scores to help identify the most suitable candidates. Machine Learning and NLP techniques are used for resume analysis, keyword matching, and candidate ranking, while Streamlit provides an interactive and user-friendly interface for uploading resumes, entering job descriptions, and viewing screening results.
+
 ### 🔹 Customer Churn Prediction
 Machine Learning project that predicts customer churn using Logistic Regression, Random Forest and Streamlit.
 
 ### 🔹 Streamlit ML App
 Interactive Machine Learning web application using Streamlit.
 
-### 🔹 Face Mask Detection System
-Detect face using real life wev cam and identify wear face mask or not.
+
 
 
 ---
@@ -54,12 +66,10 @@ Detect face using real life wev cam and identify wear face mask or not.
 ---
 
 ## 🔥 Currently Learning
-- Data Structure and Algorithms with C++
-- Django
-- Advanced Machine Learning
+- Artificial Intelligence under Mr. Arjit Sir who have around 13 years of Experience.
 
 ---
-🔭 I’m currently working as Intern at Softpro India Pvt. Ltd Lucknow.
+🔭 I’m currently working as Paid Internship at Softpro India Pvt. Ltd Lucknow.
 
 ⭐ Always learning and building real-world projects.
 
