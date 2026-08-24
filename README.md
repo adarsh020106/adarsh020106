@@ -1,89 +1,271 @@
-# Hi , I'm Adarsh Singh
+<div align="center">
 
-🎓 B.Tech Graduate with a strong interest in Data Science, Machine Learning, and Python development.  
-💻 Building real-world AI & ML projects using Python, SQL, and modern technologies  
-🚀 Focused on problem-solving, data-driven solutions, and continuous learning
+# 👋 Hi, I'm Adarsh Singh
+
+### Data Science | Machine Learning | Python Developer | AI Enthusiast
+
+🎓 B.Tech Graduate passionate about **Data Science, Machine Learning, Artificial Intelligence and Python Development**
+
+💻 Building real-world AI & ML applications using Python, Django, Streamlit, SQL and modern technologies.
+
+🚀 Focused on problem-solving, data-driven solutions and continuous learning.
+
+<br>
+
+<a href="https://github.com/adarsh020106">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/adarsh-singh-ds">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+- 🎓 B.Tech Graduate with a strong interest in **Data Science & Artificial Intelligence**
+- 🤖 Exploring **Machine Learning, Deep Learning and NLP**
+- 🐍 Building applications using **Python and Django**
+- 📊 Interested in extracting insights from data and building predictive systems
+- 💼 Currently working as a **Paid Intern at Softpro India Pvt. Ltd., Lucknow**
+- 🌱 Continuously learning new technologies and working on real-world projects
+- 🎯 Goal: Become a professional **Data Scientist / Machine Learning Engineer**
 
 ---
 
 # 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+### 💻 Programming & Database
 
-<br>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+### 📊 Data Analysis
 
-<br>
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+</p>
 
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine-Learning-blue?style=for-the-badge)
+### 🤖 Machine Learning & AI
 
-<br>
+<p>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-0066CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge"/>
+</p>
 
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+### 🌐 Web & Application Development
 
----
+<p>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
 
----
+### 🧰 Tools
 
-## 📌 Projects
-
-### 🔹 Face Mask Detection System
-FaceGuard AI is a full-stack AI-powered Face Mask Detection web application built with a Django backend and an interactive frontend supporting image uploads and webcam capture. It uses OpenCV to detect the largest frontal face, generates full-face, lower-face, and nose crops, and processes them through a trained Keras model. The prediction scores are combined to classify the result as **Mask** or **No Mask**, while selected detection results are securely stored in SQLite for each authenticated user.
-
-### 🔹 House Price Prediction System
-House Price Prediction System is a full-stack Machine Learning web application designed to estimate property prices based on various housing features such as location, area, number of bedrooms, bathrooms, and other property attributes. The system uses a trained Machine Learning model for accurate price prediction, with Django handling the backend, model integration, data processing, and user requests. The frontend is built using HTML and CSS to provide a clean, responsive, and user-friendly interface where users can enter property details and instantly receive the predicted house price.
-
-### 🔹 File Tracking System
-File Tracking System is a full-stack web application developed using Django, HTML, CSS, Bootstrap, and SQLite. It is designed to digitally manage, track, and monitor files as they move between different departments, users, or locations within an organization. The system allows authorized users to create file records, update file status, assign or forward files, maintain movement history, search and filter records, and track the current location of each file. Django handles the backend logic, authentication, and database operations, while SQLite stores file and user data. The responsive Bootstrap-based frontend provides a simple and user-friendly dashboard for efficient file management and tracking.
-Click here---https://adarshsingh11.pythonanywhere.com/
-
-### 🔹 AI based Resume Screening System
-AI-Based Resume Screening System is a Machine Learning powered application developed using Streamlit and Python to automate the process of analyzing and shortlisting resumes. The system extracts relevant information from uploaded resumes, compares candidate skills and qualifications with job requirements, and generates matching scores to help identify the most suitable candidates. Machine Learning and NLP techniques are used for resume analysis, keyword matching, and candidate ranking, while Streamlit provides an interactive and user-friendly interface for uploading resumes, entering job descriptions, and viewing screening results.
-
-### 🔹 Customer Churn Prediction
-Machine Learning project that predicts customer churn using Logistic Regression, Random Forest and Streamlit.
-
-### 🔹 Streamlit ML App
-Interactive Machine Learning web application using Streamlit.
-
-
-
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
 
 ---
 
-## 📫 Connect With Me
+# 🚀 Featured Projects
 
-- GitHub: https://github.com/adarsh020106
-- LinkedIn: www.linkedin.com/in/adarsh-singh-ds
+## 😷 Face Mask Detection System
+
+**FaceGuard AI** is a full-stack AI-powered Face Mask Detection web application built using **Django, OpenCV and Keras**.
+
+### Features
+
+- 📷 Image upload support
+- 🎥 Webcam based detection
+- 👤 Face detection using OpenCV
+- 🤖 Mask / No Mask classification
+- 🔐 User authentication
+- 💾 Detection history stored in SQLite
+- 🧠 Keras based trained ML model
+
+### Technologies
+
+`Python` `Django` `OpenCV` `Keras` `SQLite` `HTML` `CSS`
 
 ---
 
-## 🔥 Currently Learning
-- Artificial Intelligence under Mr. Arjit Sir who have around 13 years of Experience.
+## 🏠 House Price Prediction System
+
+A Machine Learning web application designed to estimate property prices based on various housing attributes.
+
+### Features
+
+- 📍 Property location input
+- 📐 Area based prediction
+- 🛏️ Bedroom and bathroom parameters
+- 🤖 Machine Learning regression model
+- ⚡ Instant price prediction
+- 🌐 Responsive web interface
+
+### Technologies
+
+`Python` `Machine Learning` `Django` `Pandas` `Scikit-learn` `HTML` `CSS`
 
 ---
-🔭 I’m currently working as Paid Internship at Softpro India Pvt. Ltd Lucknow.
 
-⭐ Always learning and building real-world projects.
+## 📁 File Tracking System
 
-<!--
-**adarsh020106/adarsh020106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A full-stack web application designed to digitally track and manage files moving between departments or users within an organization.
 
-Here are some ideas to get you started:
+### Features
 
-- 🔭 I’m currently working on ..
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📄 Create and manage file records
+- 🔄 Forward files between users/departments
+- 📍 Track current file location
+- 🕒 Maintain complete movement history
+- 🔎 Search and filter records
+- 🔐 User authentication
+- 📱 Responsive dashboard
+
+### Technologies
+
+`Python` `Django` `Bootstrap` `SQLite` `HTML` `CSS`
+
+### 🌐 Live Project
+
+👉 [View Live Application](https://adarshsingh11.pythonanywhere.com/)
+
+---
+
+## 📄 AI-Based Resume Screening System
+
+An AI-powered resume screening application developed using **Python and Streamlit** to automate candidate shortlisting.
+
+### Features
+
+- 📤 Upload resumes
+- 📋 Enter job description
+- 🧠 NLP based resume analysis
+- 🔍 Skill and keyword matching
+- 📊 Candidate matching score
+- 🏆 Candidate ranking
+- ⚡ Interactive Streamlit interface
+
+### Technologies
+
+`Python` `Streamlit` `Machine Learning` `NLP` `Pandas`
+
+---
+
+## 📉 Customer Churn Prediction
+
+A Machine Learning application designed to predict whether a customer is likely to leave a company.
+
+### Features
+
+- 📊 Customer data analysis
+- 🧹 Data preprocessing
+- 🤖 Logistic Regression
+- 🌲 Random Forest
+- 📈 Churn probability prediction
+- 🌐 Interactive Streamlit interface
+
+### Technologies
+
+`Python` `Pandas` `Scikit-learn` `Random Forest` `Logistic Regression` `Streamlit`
+
+---
+
+# 📚 Currently Learning
+
+Currently expanding my knowledge in:
+
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 🔥 Deep Learning
+- 💬 Natural Language Processing
+- 📊 Advanced Data Science
+- 🐍 Advanced Python
+
+Currently learning Artificial Intelligence under **Mr. Arjit Sir**, who has around **13 years of industry experience**.
+
+---
+
+# 💼 Experience
+
+### Paid Intern
+**Softpro India Pvt. Ltd. | Lucknow**
+
+Currently gaining practical experience by working on real-world software development and technology projects.
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=adarsh020106&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh020106&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=adarsh020106&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Profile Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adarsh020106&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/adarsh020106">
+<img src="https://img.shields.io/badge/GitHub-Adarsh%20Singh-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/adarsh-singh-ds">
+<img src="https://img.shields.io/badge/LinkedIn-Adarsh%20Singh-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Always Learning. Always Building.
+
+💡 Turning **Data into Insights** and **Ideas into Intelligent Applications**
+
+</div>
