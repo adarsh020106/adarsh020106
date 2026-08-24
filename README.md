@@ -121,12 +121,12 @@
 ## 📊 GitHub Analytics & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adarsh020106&show_icons=true&theme=dark&hide_border=false&count_private=true" alt="Adarsh's GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh020106&layout=compact&theme=dark&hide_border=false" alt="Top Languages" height="170" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adarsh020106&theme=github-dark&hide_border=true&area=true" alt="Adarsh's GitHub Activity Graph" width="95%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh020106&theme=dark&hide_border=false" alt="GitHub Streak" height="150" />
+  <img src="https://img.shields.io/github/followers/adarsh020106?label=GitHub%20Followers&style=flat-square&logo=github&color=0284c7" alt="Followers" />
+  <img src="https://img.shields.io/badge/Status-Active%20Developer-success?style=flat-square&logo=github" alt="Active" />
 </p>
 
 ---
